@@ -191,7 +191,7 @@ $ cd Betty; ./install.sh
 
 ## :blue_book: Authors
 
-* **Isaac Baccah
+* Tiana Akinwale
 
 
 ## :mag: License
